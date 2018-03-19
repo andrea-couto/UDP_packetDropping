@@ -1,7 +1,7 @@
 # UDP_packetDropping
 This project was an assignment for a networking class.<br>
 The Server file was provided to us.<br>
-Server file was only modified slightly to work with my Client program. 
+Server file was only modified slightly to work with my Client program. <br>
 Ping is used to test reachability to a host on a network and works by sending a packet and waiting for a reply.<br>
 
 For this project we were asked to create a Client for our PingServer program.<br>
